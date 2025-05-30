@@ -14,6 +14,6 @@ This project contains an interactive Tableau dashboard that visualizes key insig
 - **Data Source**: Netflix Movies and TV Shows Dataset (e.g., Kaggle or other source)
 
 ## 🚀 How to Use
-1. Download `Netflix_Dashboard.twbx`
+1. Download `[Netflix_Dashboard.twbx](https://github.com/sravya1115/Netflix-Dashboard)`
 2. Open it in Tableau Desktop or Tableau Public
 3. Explore the dashboard and interact with filters
